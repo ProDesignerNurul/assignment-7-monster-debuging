@@ -32,10 +32,20 @@ body {
   padding: 0px 20px;
 }
 
-article{
+#blogs{
   color: white;
   width: 50%;
   margin: auto;
+}
+
+#blogs div{
+  border: 1px solid rgb(92, 91, 91);
+  margin: 20px 5px;
+  padding: 20px;
+  border-radius: 5px;
+}
+#blogs p{
+  color: rgb(136, 135, 135);
 }
 
 #question {
